@@ -1,0 +1,14 @@
+- label: "Image"
+   name: "thumbnail"
+   widget: "image"
+   choose_url: true
+   default: "/uploads/"
+   media_folder: "uploads"
+     config:
+       multiple: true
+screenshots:
+  items:
+    - text:  
+      src: 
+      caption:  
+         
