@@ -36,7 +36,7 @@
     "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-navigation": "^0.3.2",
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.2.0",
-    "@ministryofjustice/frontend": "^0.2.6",
+    "@ministryofjustice/frontend": "^2.1.2",
     "@rollup/plugin-commonjs": "^21.0.1",
     "@rollup/plugin-node-resolve": "^15.0.1",
     "accessible-autocomplete": "^2.0.3",
